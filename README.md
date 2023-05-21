@@ -3,19 +3,20 @@
 - Control mouse without touching it!
 - Control the game using hand gestures
 
-## Mouse controls 🖱
+## Mouse controls 
 * To move mouse-
-  - Raise your index finger up and move 👆
+  - Raise your index finger up and move 
 * To Left click-
-  - Raise your index and middle finger up and touch them ✌
+  - Raise your index and middle finger up and touch them 
 * To Right click-
   - Raise your index finger and thumb and touch them 
-
+* Cancel the action
+  - Raise all 5 fingers to cancel the action
 
 ## Technologies 
 Project is created using:
   - Language: Python
-  - Libraries used - openCV, mediapipe, numpy,pycaw,tensoflow
+  - Libraries used - openCV, mediapipe, numpy, pycaw, tensoflow
 
 ## How to setup:
 Make sure following libraries are installed before execution
