@@ -19,8 +19,8 @@ Project is created using:
   - Libraries used - openCV, mediapipe, numpy, pycaw, tensoflow
 
 ## How to setup:
-Make sure following libraries are installed before execution
-  - install libraries: open CV,mediapipe,pyautogui...
--> Run solutionAPI.py to check the hand landmark model
--> Run Mouse_main.py to run the project
+- Make sure following libraries are installed before execution
+   install libraries: open CV,mediapipe,pyautogui...
+- Run solutionAPI.py to check the hand landmark model
+- Run Mouse_main.py to run the project
 
