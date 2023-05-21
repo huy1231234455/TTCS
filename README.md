@@ -1,5 +1,5 @@
 # TTCS
-# Created by Mai Quang Huy-B20DCCN313-PTIT
+
 # Control mouse and playing game with hand gesture
 - Control mouse without touching it!
 - Control the game using hand gestures
